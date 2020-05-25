@@ -23,4 +23,4 @@ The code was written in python 3.6
 <li>sklearn 
   
  Kaggle Competition Submission
- 
+<img src="https://github.com/rohangawade/Targeted-Campaign-Arvato-Financial-Solutions-Udacity-Capstone-Project/blob/master/kaggle.png"/>
